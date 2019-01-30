@@ -1,4 +1,3 @@
-///////Heheheheh
 set number
 set ruler
 set linebreak
